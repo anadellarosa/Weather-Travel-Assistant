@@ -70,10 +70,15 @@ Users can export stored data into:
 
 ## 💡 Example Output
 Location: Paris, France
+
 Weather: 🌧️ Light rain
+
 Average temperature: 18°C
+
 Travel risk: Medium
+
 Advice: Bring an umbrella ☂️
+
 Map: https://maps.google.com/...
 
 ---
