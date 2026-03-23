@@ -92,12 +92,6 @@ This project goes beyond basic weather retrieval by:
 - Combining weather + decision-making  
 
 ---
-
-## 📹 Demo
-
-(Video link here)
-
----
 ## 🏢 About PM Accelerator
 
 This project was developed as part of a technical assessment for PM Accelerator.
